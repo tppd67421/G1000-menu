@@ -574,6 +574,6 @@ After added point this item will add to Stored Flight Plan. After fill Stored Fl
 
 <hr>
 
-[Back](./../README.md)
+[Back](https://github.com/tppd67421/G1000-menu)
 
 [Prev - PFD mode](./../pfd/README.md)

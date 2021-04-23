@@ -108,6 +108,6 @@ Animation example:
 
 <hr>
 
-[Back](./../README.md)
+[Back](https://github.com/tppd67421/G1000-menu)
 
 [Next - MFD mode](./../mfd/README.md)
